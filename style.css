@@ -1,0 +1,44 @@
+.container__imagen--img{
+    height: 350px;
+    width: 100%;
+}
+
+.container__txt2--styleText {
+    color: #ffffff;
+    position: absolute;
+    left: 40%;
+    top: 50px;
+    z-index: auto;
+    font-family: 'Gulzar', serif;
+    font-family: 'Noto Serif JP', serif;
+    font-family: 'Zeyada', cursive;
+}
+
+li{
+    list-style: none;
+}
+
+.container{
+    margin-top: 15px;
+}
+
+.container__menu--style {
+    border: 1px solid #345edf;
+    width: 250px;
+    height: 200px;
+}
+
+.container__titulo--left,
+.container__titulo--style{
+    color: blue;
+    text-align: right;
+}
+
+.container__hr--puntos{
+    border-bottom-style: dashed; 
+    border-bottom-width: 3px;
+}
+
+.container__footer--pie{
+    text-align: center;
+}
